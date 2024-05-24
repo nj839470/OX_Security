@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-24T09:46:02 IST" name="Login" finished-at="2024-05-24T09:46:45 IST" duration-ms="42255">
+    <groups>
+    </groups>
+    <test started-at="2024-05-24T09:46:02 IST" name="All test" finished-at="2024-05-24T09:46:45 IST" duration-ms="42255">
+      <class name="Page_object_test.Login_page_test">
+        <test-method is-config="true" signature="getLaunchURL()[pri:0, instance:Page_object_test.Login_page_test@1921ad94]" started-at="2024-05-24T09:46:02 IST" name="getLaunchURL" finished-at="2024-05-24T09:46:10 IST" duration-ms="7625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchURL -->
+        <test-method signature="TC001_Ligon_with_Valid_Credentials()[pri:0, instance:Page_object_test.Login_page_test@1921ad94]" started-at="2024-05-24T09:46:10 IST" name="TC001_Ligon_with_Valid_Credentials" finished-at="2024-05-24T09:46:17 IST" duration-ms="6903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_Ligon_with_Valid_Credentials -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:Page_object_test.Login_page_test@1921ad94]" started-at="2024-05-24T09:46:44 IST" name="close_browser" finished-at="2024-05-24T09:46:45 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- Page_object_test.Login_page_test -->
+      <class name="API_test.Verify_status_code_test">
+        <test-method signature="TC003_Verify_status_code_and_title()[pri:0, instance:API_test.Verify_status_code_test@68b32e3e]" started-at="2024-05-24T09:46:40 IST" name="TC003_Verify_status_code_and_title" finished-at="2024-05-24T09:46:44 IST" duration-ms="4255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_Verify_status_code_and_title -->
+      </class> <!-- API_test.Verify_status_code_test -->
+      <class name="Page_object_test.Issues_info_test">
+        <test-method signature="TC002_navigate_to_issue_info()[pri:0, instance:Page_object_test.Issues_info_test@19835e64]" started-at="2024-05-24T09:46:17 IST" name="TC002_navigate_to_issue_info" finished-at="2024-05-24T09:46:40 IST" duration-ms="22973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_navigate_to_issue_info -->
+      </class> <!-- Page_object_test.Issues_info_test -->
+    </test> <!-- All test -->
+  </suite> <!-- Login -->
+</testng-results>

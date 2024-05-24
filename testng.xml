@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Login">
+	<listeners>
+		<listener class-name="Common_Utility.listner"></listener>
+	</listeners>
+	<test name="Login" enabled="false">
+		<classes>
+			<class name="Page_object_test.Login_page_test" />
+		</classes>
+	</test>
+	<test name="Issues" enabled="false">
+		<classes>
+			<class name="Page_object_test.Issues_info_test" />
+		</classes>
+	</test>
+	<test name="Api test" enabled="false">
+		<classes>
+			<class name="API_test.Verify_status_code_test" />
+		</classes>
+	</test>
+	<test name="All test" enabled="true">
+		<classes>
+			<class name="Page_object_test.Login_page_test" />
+			<class name="Page_object_test.Issues_info_test" />
+			<class name="API_test.Verify_status_code_test" />
+
+		</classes>
+	</test>
+</suite> 

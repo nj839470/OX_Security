@@ -1,0 +1,11 @@
+[INFO ] 2024-05-24 09:46:12.109 [main] OX_Security - Login button is clickable
+[INFO ] 2024-05-24 09:46:12.592 [main] OX_Security - User id send successfully
+[INFO ] 2024-05-24 09:46:13.600 [main] OX_Security - Continue button is clickable
+[INFO ] 2024-05-24 09:46:14.088 [main] OX_Security - Passward send successfully
+[INFO ] 2024-05-24 09:46:17.367 [main] OX_Security - Continue is clickable
+[INFO ] 2024-05-24 09:46:32.633 [main] OX_Security - Mouse over on = Issues 
+[INFO ] 2024-05-24 09:46:33.111 [main] OX_Security - Active issue is clickable
+[INFO ] 2024-05-24 09:46:37.509 [main] OX_Security -  Severity  is clickable
+[INFO ] 2024-05-24 09:46:38.179 [main] OX_Security - Mouse over on = High checkbox 
+[INFO ] 2024-05-24 09:46:39.367 [main] OX_Security - High checkbox  is clickable
+[INFO ] 2024-05-24 09:46:40.356 [main] OX_Security -  Total Active high issue =83
